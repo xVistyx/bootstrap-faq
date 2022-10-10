@@ -1,0 +1,25 @@
+h1 {
+    font-size: 50px;
+    opacity: 0.9;
+    text-align: center;
+    width: auto;
+}
+
+hr {
+    width: 25%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.accordion {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.accordion-button {
+    display: inline-block;
+    text-align: center;
+    background-color: lightgray;
+    border: 1px solid gray;
+}
+
